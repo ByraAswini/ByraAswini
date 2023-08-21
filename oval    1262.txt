@@ -1,0 +1,12 @@
+oval    :1262
+nominee :1200
+dash    :446
+zebra   :2045
+jar     :955
+fence   :681
+element :574
+surprise:1748
+surge   :1747
+venue   :1940
+three   :1801
+split  :1682
